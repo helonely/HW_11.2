@@ -1,8 +1,5 @@
 def build_word(word):
-    """
-    Принимает строку
-    возвращает в верхнем регистре
-    """
+    """return upper"""
     return word.upper
 
 
