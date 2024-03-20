@@ -1,4 +1,5 @@
 def build_word(word):
+    """return upper"""
     return word.upper
 
 
